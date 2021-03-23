@@ -1,9 +1,7 @@
 /**
  * @file UVEB_TempSensing.cpp
- * @author your name (you@domain.com)
+ * @author George Wicks (george.r.wicks@gmail.com)
  * @brief 
- * @version 0.1
- * @date 2021-03-13
  * 
  * @copyright Copyright (c) 2021
  * 
